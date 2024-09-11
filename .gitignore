@@ -1,0 +1,5 @@
+__pycache__/
+data/
+training.log/
+training_validation_loss.png/
+validation_accuracy.png/
